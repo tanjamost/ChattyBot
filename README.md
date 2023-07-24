@@ -13,6 +13,6 @@ In this project, you are develop a simple bot.
 
 4.Program the bot to count from 0 to any positive number users enter.
 
-5. At the final stage, you will improve your simple bot so that it can give you a test and check your answers. 
+5.At the final stage, you will improve your simple bot so that it can give you a test and check your answers. 
 The test should be a multiple-choice quiz about programming with any number of options. 
 Your bot has to repeat the test until you answer correctly and congratulate you upon completion.
