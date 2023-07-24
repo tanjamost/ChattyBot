@@ -1,5 +1,7 @@
 # ChattyBot-creating a simple console chat bot
 
+Project from Hyperskill
+
  1. Description
 
 Digital personal assistants in a sense, they are simplified versions of artificial intelligence with whom you can talk.
